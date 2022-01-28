@@ -1,8 +1,3 @@
-// Name: lab01.cpp
-// Author: Luke Wriglesworth
-// Student ID: 100847994
-// Date: 2022-01-28
-
 #include <iostream>
 #include <fstream>
 #include <string>
